@@ -2,7 +2,7 @@
 <h3 align="center">I'm a French student and I aspire to become a pentester</h3>
 <br />
 
-<img align="right" height="360px" width="480px" src="assets/Programming-bro.svg"> </img>
+<img align="right" height="340px" width="420px" src="assets/Programming-bro.svg"> </img>
 <p align="left">
 
 - 🎓 I’m currently studying at [University of Rennes 1 (ISTIC)](https://istic.univ-rennes1.fr/) <br />
