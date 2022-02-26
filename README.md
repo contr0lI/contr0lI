@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm contr0l</h1>
 <h3 align="center">I'm a French student and I aspire to become a pentester</h3>
+<br />
 
-- 🎓 I’m currently studying at [University of Rennes 1 (ISTIC)](https://istic.univ-rennes1.fr/) <br>
-  On my last year to complete my Bachelor’s degree in Computer Science <br>
+<img align="right" height="360px" width="480px" src="assets/Programming-bro.svg"> </img>
+<p align="left">
+
+- 🎓 I’m currently studying at [University of Rennes 1 (ISTIC)](https://istic.univ-rennes1.fr/) <br />
+  On my last year to complete my Bachelor’s degree in Computer Science <br />
   Want to continue in a Master’s degree in CyberSecurity
-
 
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 If you want to contact me, please use the mail below <br>
       **controlkiwii@gmail.com**
-
- 
+</p>
 
 
 
