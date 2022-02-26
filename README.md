@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm contr0l</h1>
-<h3 align="center">I aspire to become a pentester</h3>
+<h3 align="center">I'm a French student and I aspire to become a pentester</h3>
 
-- 🎓 I’m currently studying at [University of Rennes 1 (ISTIC)](https://istic.univ-rennes1.fr/)
+- 🎓 I’m currently studying at [University of Rennes 1 (ISTIC)](https://istic.univ-rennes1.fr/) <br>
+  On my last year to complete my Bachelor’s degree in Computer Science <br>
+  Want to continue in a Master’s degree in CyberSecurity
+
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **controlkiwii@gmail.com**
+- 📫 If you want to contact me, please use the mail below <br>
+      **controlkiwii@gmail.com**
 
  
 
 
 
-### 👨‍💻 Languages and tools
+###  Languages and tools
 
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="Bash" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash-colored.svg"></a>
