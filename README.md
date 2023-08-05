@@ -9,9 +9,7 @@
   Having finished my computer science degree this year.
   Starting a master's degree in Cloud and Network in September 2023.
 
-- 🌱 
-
-- 🚩 Mainly practicing my skills on [Offensive Wave](https://offensivewave.fr/profile.php?user=cKw) and sometimes on [Root-Me](https://www.root-me.org/contr0l) 
+- 🚩 Mainly practicing my skills on [Offensive Wave](https://offensivewave.com/badge.php?user=cKw) and sometimes on [Root-Me](https://www.root-me.org/contr0l) 
 
 - 📫 If you want to contact me, please use the mail below <br>
       **controi@protonmail.com**
