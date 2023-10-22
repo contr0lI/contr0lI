@@ -6,10 +6,10 @@
 <p align="left">
 
 - 🎓 I’m currently studying at [University of Rennes 1 (ISTIC)](https://istic.univ-rennes1.fr/) <br />
-  Having finished my computer science degree this year.
-  Starting a master's degree in Cloud and Network in September 2023.
+  Completed my Bachelor's degree in computer science in June 2023.
+  Currently in first year of Master's degree in cloud and networks.
 
-- 🚩 Mainly practicing my skills on [Offensive Wave](https://offensivewave.com/badge.php?user=cKw) and sometimes on [Root-Me](https://www.root-me.org/contr0l) 
+- 🚩 Mainly practicing my cybersecurity skills on [Offensive Wave](https://offensivewave.com/badge.php?user=cKw) and sometimes on [Root-Me](https://www.root-me.org/contr0l) 
 
 - 📫 If you want to contact me, please use the mail below <br>
       **controi@protonmail.com**
