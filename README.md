@@ -6,7 +6,7 @@
 <p align="left">
 
 - 🎓 I’m currently studying at [University of Rennes 1 (ISTIC)](https://istic.univ-rennes1.fr/) <br />
-  Completed my Bachelor's degree in computer science in June 2023.
+  Completed my Bachelor's degree in computer science in June 2023. <br />
   Currently in first year of Master's degree in cloud and networks.
 
 - 🚩 Mainly practicing my cybersecurity skills on [Offensive Wave](https://offensivewave.com/badge.php?user=cKw) and sometimes on [Root-Me](https://www.root-me.org/contr0l) 
