@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm contr0l</h1>
-<h3 align="center">I'm a French student and I aspire to become a pentester</h3>
 <br />
 
 <img align="right" height="340px" width="420px" src="assets/Programming-bro.svg"> </img>
