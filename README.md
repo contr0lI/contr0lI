@@ -16,8 +16,9 @@
 
 <br />
 
-###  Languages and tools
-#### Programming Language
+<details> <summary><h3> 🧰 Languages and Tools </h3></summary>
+  
+### Programming Languages
 <p>
   <a href="https://www.python.org" target="_blank">
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
@@ -42,7 +43,10 @@
 </a>
 </p>
 
-#### Frontend Developpement
+<br />
+
+ ###  Frontend Developpement
+
 <p>
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank">
   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
@@ -57,7 +61,9 @@
   <img align="left" alt="Bulma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg"/>
 </a>
   
-#### Backend Developpement
+<br />
+
+ ###  Backend Developpement
 <p>
 <a >
   <img align="left" alt="RabbitMQ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"/>
@@ -66,9 +72,11 @@
   <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 </a>
 </p>
+<br />
 
-#### Mobile App Developpement
+  ###  Mobile App Developpement
 <p>
+
 <a >
   <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
 </a>
@@ -79,25 +87,34 @@
   <img align="left" alt="Capacitor" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-original.svg"/>
 </a>
 </p>
+<br />
 
-#### Database
+  ###  Database
+<p>
 <a>
   <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 </a>
 <a>
   <img align="left" alt="PostgresSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 </a>
+</p>
+<br />
 
-#### Data Visualization
+
+###  Data Visualization
+<p>
 <a>
   <img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"/>
 </a>
 <a>
   <img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg"/>
 </a>
+</p>
+<br />
 
-#### Devops
-<a>
+  ###  Devops
+<p>
+  <a>
   <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 </a>
 <a>
@@ -106,11 +123,17 @@
 <a>
   <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"/>
 </a>
+</p>
+<br />
 
-#### Others
+  ###  Others</p>
+<p> 
 <a target="_blank">
   <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 </a>
 <a href="https://git-scm.com/" target="_blank">
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
+</p>
+
+</details>
