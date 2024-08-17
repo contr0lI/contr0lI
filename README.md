@@ -14,8 +14,6 @@
       **controi@protonmail.com**
 </p>
 
-<br />
-
 <details> <summary><h3> 🧰 Languages and Tools </h3></summary>
   
 ### Programming Languages
