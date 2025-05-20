@@ -8,7 +8,7 @@
   Completed my Bachelor's degree in computer science in June 2023. <br />
   Currently in last year of Master's degree in cloud and networks.
 
-- 🚩 Mainly practicing my cybersecurity skills on [Cyber Wave]([https://offensivewave.com/badge.php?user=cKw](https://training.cyberwave.network/badge?user=cKw)) and sometimes on [Root-Me](https://www.root-me.org/contr0l) 
+- 🚩 Mainly practicing my cybersecurity skills on [Cyber Wave]([https://offensivewave.com/badge.php?user=cKw](https://training.cyberwave.network/badge?user=cKw) and sometimes on [Root-Me](https://www.root-me.org/contr0l) 
 
 - 📫 If you want to contact me, please use the mail below <br>
       **controi@protonmail.com**
